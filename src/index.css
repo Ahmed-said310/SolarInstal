@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Ensure backgrounds touch without white cracks */
+section {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  display: block;
+  width: 100%;
+}
