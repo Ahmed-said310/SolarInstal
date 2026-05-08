@@ -1,4 +1,4 @@
-import { benefits, companyName } from "../data/data";
+import { benefits } from "../data/data";
 import { ShieldCheck, Banknote, TrendingUp } from "lucide-react";
 
 // Mapping icons to specific benefit indices or titles

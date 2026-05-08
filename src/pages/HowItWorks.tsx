@@ -1,5 +1,5 @@
 import { howItWorks } from "../data/data";
-import { ClipboardCheck, PhoneCall, Zap, ShieldCheck } from "lucide-react";
+import { ClipboardCheck, PhoneCall, Zap } from "lucide-react";
 
 // Mapping icons to steps for a professional, non-generic look
 const icons = [ClipboardCheck, PhoneCall, Zap];

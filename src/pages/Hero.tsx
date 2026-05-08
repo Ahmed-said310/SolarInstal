@@ -1,4 +1,4 @@
-import { hero, Certifications} from "../data/data";
+import { hero } from "../data/data";
 import { ArrowRight, ShieldCheck, Zap } from "lucide-react";
 
 export default function Hero() {

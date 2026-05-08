@@ -1,5 +1,5 @@
 import { ArrowRight, ShieldCheck } from "lucide-react";
-import { benefits, finalCta} from "../data/data";
+import { finalCta} from "../data/data";
 const ctaBenefits = ["$0 Upfront", "No Hidden Fees", "Local Installers"]
 export default function FinalCta() {
     const scrollToQuiz = () => {
